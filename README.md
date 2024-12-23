@@ -15,7 +15,7 @@ This project addresses taxonomic work using short sequences obtained through amp
 
 The metagenomic data used in this study come from the work published by Fiannaca *et al.* (2018). These are simulated data from an amplicon sequencing process, based on the 16S ribosomal RNA (rRNA) gene corresponding to the small ribosomal subunit. For the simulation, only the hypervariable V3-V4 regions (approximately 469 bp) were selected, as these less conserved regions have been widely reported as discriminative for species identification and classification.
 
-The dataset includes 28,000 short sequences, which were processed to remove the primers. The data are publicly available at the following [URL](http://tblab.pa.icar.cnr.it/public/BMC-CIBB_suppl/datasets/
+The dataset includes 28,000 short sequences, which were processed to remove the primers. The data is available at the following [URL](http://tblab.pa.icar.cnr.it/public/BMC-CIBB_suppl/datasets/
 )
 
 ### Key Insights
